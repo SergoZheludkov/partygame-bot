@@ -1,0 +1,28 @@
+{
+  "name": "@common_ubot/utilits",
+  "version": "0.0.1",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch --preserveWatchOutput",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "date-fns": "2.16.1",
+    "lodash": "4.17.20",
+    "yup": "0.30.0",
+    "ramda": "0.27.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "^16.13.1"
+  }
+}
