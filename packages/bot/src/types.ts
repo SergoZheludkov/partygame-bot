@@ -11,12 +11,15 @@ export enum Scene {
   LANGUAGE = 'scene_language',
   NOTIFICATIONS = 'scene_notifications',
 
+  HAT = 'scene_game_hat',
+
   TEST = 'scene_test',
   UPDATE_BOT = 'scene_update_bot',
   RESET = 'scene_reset',
 }
 
 export enum Menu {
+  GAMES = 'games_menu',
   MAIN = 'main_menu',
   ADMIN = 'admin_menu',
   BALANCE = 'balance_menu',

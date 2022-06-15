@@ -1,1 +1,0 @@
-export { InputMoney } from './InputMoney';

@@ -1,1 +1,0 @@
-export { ManagementWallets } from './ManagementWallets';

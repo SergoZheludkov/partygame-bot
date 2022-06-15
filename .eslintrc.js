@@ -23,6 +23,10 @@ module.exports = {
     jest: true,
   },
   rules: {
+    'import/no-unresolved': [
+      2,
+      { "caseSensitive": false }
+    ],
     '@typescript-eslint/camelcase': 0,
     'camelcase': 'off',
     'no-useless-constructor': 'off',

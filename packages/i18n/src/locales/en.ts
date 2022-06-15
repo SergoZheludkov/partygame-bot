@@ -17,6 +17,7 @@ const en = {
     main: 'Выбран:',
   },
   buttons: {
+    games: '🎉 Games',
     balance: '💵 Balance',
     referral: '💎 Affiliate',
     feedback: '📲 Support',
@@ -65,6 +66,9 @@ const en = {
     week: 'Week',
     yesterday: 'Yesterday',
     period: 'Period',
+  },
+  games_menu: {
+    message: 'Choose a game',
   },
   admin_menu: {
     message: 'What do you want to do?',
@@ -175,6 +179,10 @@ const en = {
   notifications: {
     message: 'Setting the notification time',
     about: 'You can choose any time\nfrom 7:00 to 22:00',
+  },
+
+  hat: {
+    settings: 'Game settings',
   },
 };
 

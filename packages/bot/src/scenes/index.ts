@@ -1,15 +1,17 @@
-export { Authentification } from './Authentification';
-export { Registration } from './Registration';
+export { Authentification } from './authentification';
+export { Registration } from './registration';
 
-export { Feedback } from './Feedback';
-export { Rules } from './Rules';
+export { Feedback } from './feedback';
+export { Rules } from './rules';
 
-export { InputMoney } from './InputMoney';
-export { Payments } from './Payments';
+export { InputMoney } from './input-money';
+export { Payments } from './payments';
 
-export { Language } from './Language';
-export { Notifications } from './Notifications';
+export { Language } from './language';
+export { Notifications } from './notifications';
 
-export { Statistics } from './Statistics';
+export { Statistics } from './statistics';
 
-export { Wallets } from './Wallets';
+export { Wallets } from './wallets';
+
+export { Games } from './games';

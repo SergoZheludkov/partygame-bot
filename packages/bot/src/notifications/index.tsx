@@ -1,8 +1,8 @@
 import React from 'react';
-import { Notification } from './Notification';
-import { ReferralMoney } from './ReferralMoney';
-import { NewReferral } from './NewReferral';
-import { DailyStatistics } from './DailyStatistics';
+import { Notification } from './notification';
+import { ReferralMoney } from './referral-money';
+import { NewReferral } from './new-referral';
+import { DailyStatistics } from './daily-statistics';
 
 export const Notifications = () => (
   <>
