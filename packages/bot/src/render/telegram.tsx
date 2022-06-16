@@ -2,7 +2,7 @@ import React from 'react';
 import { UrbanBotTelegram } from '@urban-bot/telegram';
 import { render, Root } from '@urban-bot/core';
 import dotenv from 'dotenv';
-import { App } from '../App';
+import { App } from '../app';
 import { expressApp } from '../express-app';
 import { getChats } from '../local-storage';
 

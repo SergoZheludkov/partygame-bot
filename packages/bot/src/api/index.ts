@@ -1,2 +1,2 @@
-export * from './MessageBroker';
+export * from './message-broker';
 export * from './types';

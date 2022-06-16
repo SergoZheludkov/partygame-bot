@@ -1,6 +1,6 @@
-import { User, useUser } from './User';
-import { Wallets, useWallets } from './Wallets';
-import { Statistics, useStatistics } from './Statistics';
+import { User, useUser } from './user';
+import { Wallets, useWallets } from './wallets';
+import { Statistics, useStatistics } from './statistics';
 
 export const Provider = {
   User,

@@ -1,2 +1,2 @@
-export { useCommonMainMenu as useCommonMain } from './useCommon';
-export { useUpdatedMainMenu as useUpdatedMain } from './useUpdated';
+export { useCommonMainMenu as useCommonMain } from './use-common';
+export { useUpdatedMainMenu as useUpdatedMain } from './use-updated';

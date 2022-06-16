@@ -1,9 +1,10 @@
-export { Main } from './Main';
-export { Admin } from './Admin';
-export { Balance } from './Balance';
-export { Wallets } from './Wallets';
-export { Referral } from './Referral';
-export { Settings } from './Settings';
-export { Statistics } from './Statistics';
+export { Main } from './main';
+export { Admin } from './admin';
+export { Games } from './games';
+export { Balance } from './balance';
+export { Wallets } from './wallets';
+export { Referral } from './referral';
+export { Settings } from './settings';
+export { Statistics } from './statistics';
 
 export * as hooks from './hooks';
